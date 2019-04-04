@@ -1,0 +1,6 @@
+a=('Mandata is a GOOD  boy ')
+b=a.title()
+c=a.isdigit()
+d=a.isdigit()
+e=a.count('a',2,9)
+print(a,b,c,d,e)
